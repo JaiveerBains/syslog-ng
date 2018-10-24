@@ -74,7 +74,7 @@ For a brief introduction to configuring the syslog-ng application, see the [quic
   * classify and structure logs with built-in parsers (csv-parser(),
     db-parser(), kv-parser(), ...)
   * normalize, crunch, and process logs as they flow through the system
-  * hand over messages for further processing using message queues (like
+  * hand over messages for further processing using the message queues (like
     [AMQP](http://www.amqp.org/)), files or databases (like
     [PostgreSQL](http://www.postgresql.org/) or
     [MongoDB](http://www.mongodb.org/)), and
